@@ -1,0 +1,13 @@
+C:\www\udemy\C#\Projetos\Git\Git\bin\Debug\netcoreapp3.1\Git.exe
+C:\www\udemy\C#\Projetos\Git\Git\bin\Debug\netcoreapp3.1\Git.deps.json
+C:\www\udemy\C#\Projetos\Git\Git\bin\Debug\netcoreapp3.1\Git.runtimeconfig.json
+C:\www\udemy\C#\Projetos\Git\Git\bin\Debug\netcoreapp3.1\Git.runtimeconfig.dev.json
+C:\www\udemy\C#\Projetos\Git\Git\bin\Debug\netcoreapp3.1\Git.dll
+C:\www\udemy\C#\Projetos\Git\Git\bin\Debug\netcoreapp3.1\Git.pdb
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.csprojAssemblyReference.cache
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.AssemblyInfoInputs.cache
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.AssemblyInfo.cs
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.csproj.CoreCompileInputs.cache
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.dll
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.pdb
+C:\www\udemy\C#\Projetos\Git\Git\obj\Debug\netcoreapp3.1\Git.genruntimeconfig.cache
